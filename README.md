@@ -4,7 +4,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[Business Analysis Rport](https://github.com/MuhammedMansoor/BI---Business-Anaytics-Dashborad/blob/main/AdventureWorks%20Report_FINAL.pbix)_for Adventure Work Pvt Ltd.
+    **1.** Create a _[Business Analysis Rport](https://github.com/MuhammedMansoor/BI---Business-Anaytics-Dashborad/blob/main/Adventure%20Works.pdf)_for Adventure Work Pvt Ltd.
 
    
 
