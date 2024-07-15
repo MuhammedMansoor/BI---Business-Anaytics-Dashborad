@@ -10,11 +10,11 @@
 
 - **Project Outline:** 
 
- ** Interactive Dashboards: Customized dashboards providing insightful metrics and KPIs relevant to the bike shop's operations.
-**Data Models: Well-structured data models that integrate various data sources for a holistic view of the business.
-**Analytical Reports: Detailed reports focusing on sales performance, customer demographics, inventory management, and more.
-**Visualizations: A range of visualizations, including bar charts, line graphs, pie charts, and maps, offering intuitive data interpretations.
-**This project serves as a showcase of advanced Power BI techniques and offers a deep dive into the business analytics of a retail bike shop
+ **>****Interactive Dashboards: Customized dashboards providing insightful metrics and KPIs relevant to the bike shop's operations.**
+ **>****Data Models: Well-structured data models that integrate various data sources for a holistic view of the business.**
+ **>****Analytical Reports: Detailed reports focusing on sales performance, customer demographics, inventory management, and more.**
+ **>****Visualizations: A range of visualizations, including bar charts, line graphs, pie charts, and maps, offering intuitive data interpretations.**
+ **>****This project serves as a showcase of advanced Power BI techniques and offers a deep dive into the business analytics of a retail bike shop**
 
   
 
